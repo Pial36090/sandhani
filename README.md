@@ -28,7 +28,7 @@ Then open `http://localhost:8000`.
 
 The site is a design preview and contains illustrative hospital details. Replace and verify all sample information before using it with patients:
 
-- Search all HTML files for `Sandhani`, `Dhaka`, and the sample address. Add the hospital's verified name and location.
+- Search all HTML files for `Sandhani` and `Khulna`. Verify the hospital's exact street address and update it before publishing.
 - Emergency and ambulance links and WhatsApp buttons use `+880 1319 772783` (`01319772783`). Confirm this is the correct number for each service before publishing.
 - Replace the doctor names, profile photos, qualifications, OPD schedules, and sample statistics with approved information.
 - Update package pricing, visiting/OPD hours, pharmacy/ambulance details, insurance partners, and accreditation claims with current hospital data.
